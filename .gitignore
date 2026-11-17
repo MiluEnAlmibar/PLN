@@ -1,2 +1,14 @@
-artifacts/
-full_dataset/
+# Datos y artefactos pesados (no se suben al repo)
+practica/full_dataset/
+practica/artifacts/
+
+# Python
+__pycache__/
+*.py[oc]
+.ipynb_checkpoints/
+
+# Entorno virtual
+.venv/
+
+# Entregable generado
+*.zip
