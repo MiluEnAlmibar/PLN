@@ -12,3 +12,7 @@ __pycache__/
 
 # Entregable generado
 *.zip
+
+# Artefactos de prueba y enunciado (no se suben)
+practica/artifacts_smoke/
+practica/*.pdf
